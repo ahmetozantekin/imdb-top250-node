@@ -1,0 +1,23 @@
+{
+  "name": "imdb-top250-node",
+  "version": "1.0.0",
+  "description": "IMDB's top 250 list scraper for nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imdb",
+    "top 250",
+    "movie",
+    "top rated movies",
+    "top250 json"
+  ],
+  "author": "Ahmet Ozan Tekin <ahmetozantekin@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}
