@@ -1,13 +1,15 @@
 # IMDB-top250-node
+[![npm version](https://badge.fury.io/js/imdb-top250-node.svg)](https://badge.fury.io/js/imdb-top250-node)
 
 IMDB's top 250 list scraper for nodejs
 
 ```sh
 $ npm install
 $ node app
+$ listening :81 port.
 ```
 
-####Output:
+### Output
 create a json file as imdb-top25.json
 
 ```sh

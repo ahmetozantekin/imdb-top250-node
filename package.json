@@ -1,10 +1,14 @@
 {
   "name": "imdb-top250-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IMDB's top 250 list scraper for nodejs",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmetozantekin/imdb-top250-node.git"
   },
   "keywords": [
     "imdb",
@@ -13,6 +17,10 @@
     "top rated movies",
     "top250 json"
   ],
+  "bugs": {
+    "url": "https://github.com/ahmetozantekin/imdb-top250-node/issues"
+  },
+  "homepage": "https://github.com/ahmetozantekin/imdb-top250-node#readme",
   "author": "Ahmet Ozan Tekin <ahmetozantekin@gmail.com>",
   "license": "ISC",
   "dependencies": {
