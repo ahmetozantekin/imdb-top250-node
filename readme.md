@@ -7,7 +7,7 @@ $ npm install
 $ node app
 ```
 
-###Output
+### Output
 create a json file as imdb-top25.json
 
 ```sh
